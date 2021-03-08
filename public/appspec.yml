@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/html/cataliz-web/public
+    destination: /var/www/html/forum-blog/public
